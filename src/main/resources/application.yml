@@ -3,20 +3,10 @@
 spring:
   data:
     mongodb:
-      uri: "mongodb+srv://shahidali183229:shahid%40mongodb@cluster0.f5ahh.mongodb.net/addressbook?retryWrites=true&w=majority&appName=Cluster0"
+      uri: "url of your storage like MondoDb Atlas"
       auto-index-creation: true
 
 
-  mail:
-    host: smtp.gmail.com
-    port: 587
-    username: shahidali183229@gmail.com
-    password: dhvp ibxd srgd sdxb
-    properties:
-      mail:
-        smtp:
-          auth: true
-          starttls:
-            enable: true
+
 
 
